@@ -1,4 +1,4 @@
-# Robot autonome avec RTOS – Évitement d’obstacles
+# Robot autonome avec ROS – Évitement d’obstacles
 
 ## Description
 Ce projet consiste en le développement d’un comportement robotique autonome basé sur une architecture temps réel.
